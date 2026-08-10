@@ -32,8 +32,11 @@ Programar me faz sentir vivo.
 
 <br>
 
-### 📚 Atualmente aprendendo
+### 📚 Em constante aprendizado
 
+- C
+- C++
+- Python
 - HTML
 - CSS
 - JavaScript
