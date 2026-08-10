@@ -1,8 +1,11 @@
 <h1 align="center">
   Olá, mundo </h1>
+
+<div align="center">
   
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,flutter,git,github" />
-<div align="center">
+</div>
+
 </p>
 
 <br>
