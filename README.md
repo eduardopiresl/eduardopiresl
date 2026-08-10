@@ -45,7 +45,7 @@ Atuo como monitor da matéria de Algoritmos e Lógica de Programação, ajudando
 
 <td width="45%" align="center" valign="middle">
 
-<img src="./assets/jackofalltradesmasterofnone.gif" width="100%"> width="100%">
+<img src="./assets/jackofalltradesmasterofnone.gif" width="100%">
 
 </td>
 </tr>
