@@ -1,12 +1,11 @@
 <h1 align="center">
   Olá, mundo. 
-</h1>
-
+  
 <h2 align="center">🛠️ Tecnologias</h2>
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,flutter,sql,git,github" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,sql,git,github" />
 
 </p>
 
@@ -51,7 +50,7 @@ Programar me faz sentir vivo.
 
 ### 🎓 Além da programação
 
-Atuo como monitor da matéria de Algoritmos e Lógica de Programação, ajudando outros estudantes a desenvolverem sua lógica e seus conhecimentos em programação.
+Atuo como monitor da disciplina de Algoritmos e Lógica de Programação, ajudando outros estudantes a desenvolverem sua lógica e seus conhecimentos em programação.
 
 </td>
 
