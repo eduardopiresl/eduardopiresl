@@ -1,10 +1,6 @@
 <h1 align="center">
   Olá, mundo. 
   
-<h2 align="center">🛠️ Tecnologias</h2>
-
-<p align="center">
-
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,sql,git,github" />
 
 </p>
