@@ -2,6 +2,18 @@
   Olá, mundo. 
 </h1>
 
+<h2 align="center">🛠️ Tecnologias</h2>
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,flutter,sql,git,github" />
+
+</p>
+
+<br>
+
+
+
 <br>
 
 <table>
@@ -52,16 +64,3 @@ Atuo como monitor da matéria de Algoritmos e Lógica de Programação, ajudando
 </table>
 
 <br>
-
----
-
-<h2 align="center">🛠️ Tecnologias</h2>
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,flutter,sql,git,github" />
-
-</p>
-
-<br>
-
