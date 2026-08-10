@@ -11,7 +11,6 @@
 
 <br>
 
-<table>
 <tr>
 <td width="55%" valign="top">
 
