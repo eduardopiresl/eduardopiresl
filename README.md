@@ -18,9 +18,6 @@
 
 **Tecnologia em Análise e Desenvolvimento de Sistemas — FATEC**
 
-Amante de tecnologia e curioso por natureza.  
-Programar me faz sentir vivo.
-
 <br>
 
 ### 💼 Experiência
