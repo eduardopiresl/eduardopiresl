@@ -33,12 +33,9 @@
 - C
 - C++
 - Python
-- HTML
-- CSS
-- JavaScript
 - TypeScript
+- Node.js
 - React
-- Next.js
 - GLSL
 
 <br>
