@@ -39,11 +39,6 @@
 - GLSL
 
 <br>
-
-### 🎓 Além da programação
-
-Atuo como monitor da disciplina de Algoritmos e Lógica de Programação, ajudando outros estudantes a desenvolverem sua lógica e seus conhecimentos em programação.
-
 </td>
 
 <td width="45%" align="center" valign="middle">
